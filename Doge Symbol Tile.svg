@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5684.2354mm"
+   height="4922.6938mm"
+   viewBox="0 0 20140.991 17442.616"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Doge Symbol Tile.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.027146617"
+     inkscape:cx="6919.4192"
+     inkscape:cy="9366.9499"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2059.8149,15503.106)">
+    <path
+       style="opacity:1;fill:#f44336;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 7095.0557,-15503.106 -5035.2408,8721.3041 5035.2408,8721.3116 10070.4963,0 5035.255,-8721.2973 -5035.255,-8721.3184 -10070.4963,0 z m 2114.8965,4790.534 1997.5338,43.836 c 2077.75,45.619 2515.642,111.07 3209.414,479.499 713.453,378.8786 1143.312,931.6227 1529.402,1966.5791 98.172,263.1758 136.871,668.5773 136.871,1433.9565 0,936.6533 -27.663,1143.7962 -226.297,1694.4546 -325.488,902.3437 -738.157,1407.4483 -1524.567,1866.1475 -595.245,347.1891 -1226.567,431.5489 -3253.705,434.8397 l -1868.6518,2.959 0,-1632.3305 0,-1632.3956 -515.4827,0 -515.4971,0 0,-687.3271 0,-687.3053 515.4971,0 515.4827,0 0,-1641.4602 0,-1641.4527 z m 1718.2928,1478.6873 0,902.1127 0,902.1129 687.341,0 687.306,0 0.296,708.7904 0.281,708.8049 -687.508,-28.0092 -687.514,-28.0237 0,908.637 0,908.6585 934.264,0 c 619.87,0 1059.899,-44.334 1307.631,-131.7394 l -0.181,0 c 449.266,-158.5073 959.949,-694.0966 1096.546,-1149.9884 130.888,-436.8821 125.143,-1896.2281 -9.231,-2342.1603 -62.953,-208.9111 -267.39,-519.5748 -494.026,-750.7936 -474.815,-484.3918 -886.611,-608.4018 -2020.231,-608.4018 l -814.974,0 z"
+       id="path4205"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
