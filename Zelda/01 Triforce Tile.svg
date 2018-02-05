@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2049.9009mm"
+   height="1775.2668mm"
+   viewBox="0 0 7263.4283 6290.3156"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="01 Triforce Tile.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="3628.5124"
+     inkscape:cy="3212.7869"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2115.2982,2114.7389)">
+    <path
+       style="opacity:1;fill:#26a69a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -299.48859,-2114.7389 -1815.80961,3145.1152 1815.80961,3145.2004 3631.71659,0 1815.9023,-3145.2004 -1815.9023,-3145.1152 -3631.71659,0 z m 1854.11959,854.8357 c 5.5271,0 1085.843,1875.55165 1082.9681,1880.20245 -4.1268,6.66321 -2161.81409,6.62147 -2165.93165,0 l 0,-0.0881 C 468.79258,615.54644 1549.0342,-1259.9032 1554.631,-1259.9032 Z M 464.33189,632.34588 c 3.06035,0 248.94983,421.39562 546.46181,936.43322 297.5119,515.0376 542.2283,936.4333 543.8373,936.4333 1.5765,0 246.3438,-421.3957 543.8419,-936.4333 297.4887,-515.0376 543.3226,-936.43322 546.3736,-936.43322 3.0604,0 248.0781,419.77272 544.468,932.81182 296.3944,513.0437 540.5729,935.5522 542.6641,938.8769 3.0604,4.8409 -433.6324,6.0697 -2177.3476,6.0697 -1743.71067,0 -2180.36632,-1.2149 -2177.34307,-6.0697 2.0866,-3.3386 246.29289,-425.8332 542.659522,-938.8769 C 216.31408,1052.1186 461.28546,632.34588 464.33189,632.34588 Z"
+       id="path4212"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
